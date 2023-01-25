@@ -9,3 +9,4 @@ if [ $ARCHITECTURE = "x86_64" ]
 then                                                                            
         echo "64 Bit Operating System Detected"                                 
 fi
+#  you can also use the test command instead of using brackets.
